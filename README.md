@@ -1,6 +1,6 @@
 # RAGBase
 
-> A production-ready RAG chatbot scaffold. Swap in your documents, update the prompt, and you have a real RAG system.
+> A RAG chatbot scaffold. Swap in your documents, update the prompt, and you have a real RAG system.
 
 ## Stack
 
