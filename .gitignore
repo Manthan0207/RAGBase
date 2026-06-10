@@ -1,0 +1,29 @@
+# Environment
+.env
+**/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# FAISS index
+backend/faiss_index/
+
+# Knowledge base (copyrighted PDFs)
+backend/kb/
+
+# Node
+node_modules/
+.next/
+
+# OS
+.DS_Store
+Thumbs.db
